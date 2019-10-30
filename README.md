@@ -198,6 +198,10 @@ $ npm start
 $ open http://localhost:8080/
 ```
 
+
+## Contribution
+In order to contribute for the project please checkout our [Contribution](Contribuation.md) page.
+
 ## License
 
 > See [LICENSE](LICENSE.md) for details.
